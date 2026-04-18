@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/zeno-portfolio/static/css/main.5e6dec59.css",
+    "main.js": "/zeno-portfolio/static/js/main.5417da19.js",
+    "static/media/hero.png": "/zeno-portfolio/static/media/hero.bb738eba4f0ccc4d8793.png",
+    "static/media/react-cert.png": "/zeno-portfolio/static/media/react-cert.21a765f2e327923986f8.png",
+    "static/media/about.png": "/zeno-portfolio/static/media/about.0dba6e3e67befaeba4e4.png",
+    "static/media/ai-cert.png": "/zeno-portfolio/static/media/ai-cert.a87011ee9fec057dd8c6.png",
+    "static/media/python-cert.png": "/zeno-portfolio/static/media/python-cert.96aa313b9634cadfb80b.png",
+    "static/media/nextjs-cert.png": "/zeno-portfolio/static/media/nextjs-cert.20261e3de1ff10abacb8.png",
+    "static/media/mongodb.png": "/zeno-portfolio/static/media/mongodb.b9e24b8bb2aef42f7ee6.png",
+    "static/media/kubernetes.png": "/zeno-portfolio/static/media/kubernetes.8b308a0390ef896c4b7c.png",
+    "static/media/node.png": "/zeno-portfolio/static/media/node.8683d89cf78ffae3d1f7.png",
+    "static/media/redux.png": "/zeno-portfolio/static/media/redux.492ed7d54dd2352c5786.png",
+    "static/media/aws.png": "/zeno-portfolio/static/media/aws.f945c3d9e814903ac914.png",
+    "static/media/nestjs.png": "/zeno-portfolio/static/media/nestjs.24524e5cf7ff2825fdf6.png",
+    "static/media/next.png": "/zeno-portfolio/static/media/next.d1a2a5be21c264b805e5.png",
+    "static/media/mysql.png": "/zeno-portfolio/static/media/mysql.138af6ce65cd59a39782.png",
+    "static/media/css.png": "/zeno-portfolio/static/media/css.8aaf7833370a6845139c.png",
+    "static/media/html.png": "/zeno-portfolio/static/media/html.be50d4568ab0cb01edb8.png",
+    "static/media/express.png": "/zeno-portfolio/static/media/express.551b076d3a202df33a0c.png",
+    "static/media/firebase.png": "/zeno-portfolio/static/media/firebase.733c129740848ac415a5.png",
+    "static/media/vscode.png": "/zeno-portfolio/static/media/vscode.9da637ae18b05b4a2f99.png",
+    "static/media/prisma.png": "/zeno-portfolio/static/media/prisma.670f52f4b3275fb28afd.png",
+    "static/media/python.png": "/zeno-portfolio/static/media/python.9c47735ea0c4a2d20349.png",
+    "static/media/github.png": "/zeno-portfolio/static/media/github.68bbeafeade821944d14.png",
+    "index.html": "/zeno-portfolio/index.html",
+    "main.5e6dec59.css.map": "/zeno-portfolio/static/css/main.5e6dec59.css.map",
+    "main.5417da19.js.map": "/zeno-portfolio/static/js/main.5417da19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e6dec59.css",
+    "static/js/main.5417da19.js"
+  ]
+}
