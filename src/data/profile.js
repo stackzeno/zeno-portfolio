@@ -3,13 +3,13 @@ const ProfileData = {
   logo: require("../assets/Images/Name.png"),
   name: "Jerome Grimes",
   professions: [
-    "AI Full-Stack Developer",
-    "React & Next.js",
-    "Python, Supabase, MVP Specialist",
+    "Senior Software Engineer",
+    "AI Agents & SaaS",
+    "Python, React/Next.js, AWS",
   ],
   info: [
-    "Helping startups and businesses turn ideas into working SaaS products.",
-    "I build modern web apps, AI workflows, and scalable backend systems for rapid MVP delivery.",
+    "Building production-ready SaaS platforms and AI-driven systems from concept through launch.",
+    "Practical engineering with a focus on performance, scalability, and maintainable architecture.",
   ],
   resume: "",
 };

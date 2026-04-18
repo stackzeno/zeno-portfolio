@@ -1,22 +1,12 @@
 const EducationData = [
   {
     degree: "Bachelor of Computer Science",
-    institution: "Mesa Community College",
-    duration: "2017 - 2019",
+    institution: "Washington State University",
+    duration: "1997 - 2001",
     description: [
-      "Studied core computer science concepts including programming, data structures, and software development.",
-      "Built foundational skills in web development and problem-solving.",
-      "Worked on academic projects focused on real-world application development.",
-    ],
-  },
-  {
-    degree: "High School Diploma",
-    institution: "Polytechnic High School",
-    duration: "2012 - 2015",
-    description: [
-      "Completed high school education with a focus on science and technology subjects.",
-      "Developed early interest in programming and software development.",
-      "Participated in technical coursework and foundational computing studies.",
+      "Studied core computer science concepts including algorithms, systems, and software engineering.",
+      "Built a strong foundation in scalable systems design, programming, and problem solving.",
+      "Prepared for a long-term engineering career focused on SaaS, cloud, and AI-enabled applications.",
     ],
   },
 ];

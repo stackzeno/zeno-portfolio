@@ -1,11 +1,11 @@
 const AboutData = {
   image: require("../assets/Images/about.png"),
   description: [
-    "A <strong>SaaS & AI Developer</strong> focused on building production-ready applications that generate real business value.",
-    "Specialized in launching <strong>Scalable MVPs</strong> quickly using <span class='text-blue-600 font-semibold'>Next.js</span>, <span class='text-blue-600 font-semibold'>Python</span>, and <span class='text-blue-600 font-semibold'>Supabase</span>.",
-    "Experienced in developing <strong>AI-Powered Systems</strong> including LLM integrations, automation workflows, and data-driven features.",
-    "Strong focus on <strong>Clean Architecture</strong>, <strong>Performance</strong>, and <strong>Long-Term Scalability</strong>.",
-    "Delivers <strong>Reliable Code, Clear Communication</strong>, and <strong>Fast Execution</strong> to support product growth and revenue.",
+    "Senior Software Engineer specializing in building <strong>SaaS platforms</strong> and <strong>AI-driven products</strong> from early concept through production launch.",
+    "Deep experience designing and shipping <strong>AI agents</strong>, <strong>automation workflows</strong>, <strong>RAG pipelines</strong>, and <strong>document processing systems</strong> for real-world applications.",
+    "Practical, product-focused engineering with a strong emphasis on <strong>clean architecture</strong>, <strong>high performance</strong>, and <strong>scalable distributed systems</strong>.",
+    "Regularly deliver <strong>API-first backends</strong> and <strong>high-performance frontends</strong> using <strong>Python</strong>, <strong>Node.js</strong>, <strong>React / Next.js</strong>, and <strong>AWS</strong>.",
+    "Passionate about building systems that are <strong>easy to extend</strong>, <strong>reliable to operate</strong>, and designed to <strong>support long-term product growth</strong>.",
   ],
 };
 export default AboutData;
